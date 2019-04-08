@@ -1,0 +1,6 @@
+nickname password
+shadow180 1598753
+shadow shadow
+dada dadada
+koko kookokokoko
+Dancho 123456
